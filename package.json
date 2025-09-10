@@ -1,0 +1,9 @@
+{
+  "name": "roblox-discord-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "axios": "^1.6.0",
+    "mongoose": "^7.0.0"
+  }
+}
